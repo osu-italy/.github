@@ -1,5 +1,7 @@
 # Italian Community of osu!
 
+## [Bounties](https://github.com/osu-italy/bounty) 
+List of all the bounties of the italian community
 ## osu! wiki
 ### Useful Links
 #### [osu! wiki tracker](https://github.com/orgs/osu-italy/projects/3/views/1)
