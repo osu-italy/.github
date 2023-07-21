@@ -1,4 +1,4 @@
-# Italian Community of osu!
+# osu! Italian Community
 
 ## [Bounties](https://github.com/osu-italy/bounty) 
 List of all the bounties of the italian community
